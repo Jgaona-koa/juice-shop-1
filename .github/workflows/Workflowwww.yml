@@ -20,7 +20,7 @@ jobs:
          uses: zaproxy/action-baseline@v0.4.0
          with:
            # Target URL
-           target: "http://localhost:4000"
+           target: "http://applesfera.com"
            fail_action: false
            token: ${{ secrets.GITHUB_TOKEN }}
            issue_title: Security Tests
