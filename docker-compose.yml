@@ -18,6 +18,6 @@ services:
 #      "-l", "PASS" # Minimum level of findings to show,
 #      "-l", "IGNORE", # Minimum level of findings to show,
 #      "-d"        # Include debug messages (is this equiv to verbose?)
-#      "-n", "",     # context file which will be loaded prior to spidering the target
+##      "-n", "",     # context file which will be loaded prior to spidering the target
 #      "-p", "",     # progress file which specifies issues that are being addressed
     ]
